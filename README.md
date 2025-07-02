@@ -44,7 +44,7 @@ The dataset includes fiber infrastructure data for the following West African co
 │   ├── BEN.tif
 │   ├── GHA.tif
 │   └── ...
-├── IXP/                # Internet Exchange Point data
+├── IXP/ixp.geojson     # Internet Exchange Point data
 ├── submarine/          # Submarine cable data
 └── metadata.xlsx       # Information on data sources and data schemas
 ```
