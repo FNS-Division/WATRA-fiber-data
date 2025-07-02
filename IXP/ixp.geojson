@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "WATRA-IXP",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "country": "Benin", "name": "BENINIX" }, "geometry": { "type": "Point", "coordinates": [ 2.427435478896651, 6.355280137167854 ] } },
+{ "type": "Feature", "properties": { "country": "Burkina Faso", "name": "BFIX" }, "geometry": { "type": "Point", "coordinates": [ -1.519608565791952, 12.371407584916172 ] } },
+{ "type": "Feature", "properties": { "country": "Cote d'Ivoire", "name": "CIVIX" }, "geometry": { "type": "Point", "coordinates": [ -3.974915989959221, 5.312878372271221 ] } },
+{ "type": "Feature", "properties": { "country": "Gambia", "name": "SIXP" }, "geometry": { "type": "Point", "coordinates": [ -16.680386641231443, 13.45252164972586 ] } },
+{ "type": "Feature", "properties": { "country": "Ghana", "name": "Accra-IX" }, "geometry": { "type": "Point", "coordinates": [ -0.210014608430904, 5.570845364646233 ] } },
+{ "type": "Feature", "properties": { "country": "Ghana", "name": "GIX" }, "geometry": { "type": "Point", "coordinates": [ -0.194395051614256, 5.560332631473882 ] } },
+{ "type": "Feature", "properties": { "country": "Guinee", "name": "IXP-GUINEE" }, "geometry": { "type": "Point", "coordinates": [ -13.622006641673803, 9.593333153316435 ] } },
+{ "type": "Feature", "properties": { "country": "Liberia", "name": "LIXP" }, "geometry": { "type": "Point", "coordinates": [ -10.802328261675793, 6.316374107636881 ] } },
+{ "type": "Feature", "properties": { "country": "Mali", "name": "MLIX" }, "geometry": { "type": "Point", "coordinates": [ -8.001411118420489, 12.645887199859272 ] } },
+{ "type": "Feature", "properties": { "country": "Nigeria", "name": "IXPN-Abuja" }, "geometry": { "type": "Point", "coordinates": [ 7.403603119410533, 9.07137952591958 ] } },
+{ "type": "Feature", "properties": { "country": "Nigeria", "name": "AMS-IX Lagos" }, "geometry": { "type": "Point", "coordinates": [ 3.588783170038058, 6.449525816314543 ] } },
+{ "type": "Feature", "properties": { "country": "Nigeria", "name": "IXPN-Lagos" }, "geometry": { "type": "Point", "coordinates": [ 3.397813026013283, 6.447522096397855 ] } },
+{ "type": "Feature", "properties": { "country": "Nigeria", "name": "IXPN-Port Harcourt" }, "geometry": { "type": "Point", "coordinates": [ 7.04979236705405, 4.81557040408104 ] } },
+{ "type": "Feature", "properties": { "country": "Senegal", "name": "SENIX" }, "geometry": { "type": "Point", "coordinates": [ -17.435183109060631, 14.657643977093297 ] } },
+{ "type": "Feature", "properties": { "country": "Togo", "name": "TGIX" }, "geometry": { "type": "Point", "coordinates": [ 1.212025633967697, 6.127628488251389 ] } }
+]
+}

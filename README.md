@@ -6,6 +6,8 @@ Fiber optic infrastructure data and resources for West African countries collect
 
 This repository contains geospatial data on fiber optic network infrastructure across West Africa, including both operational and planned networks. The data is provided in standardized formats to support regional telecommunications planning and infrastructure development initiatives.
 
+_Figure: Terrestrial and submarine links in West Africa._
+
 ![Alt text](WATRA_overview.png)
 
 The dataset includes fiber infrastructure data for the following West African countries:
