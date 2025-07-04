@@ -2,6 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.DS_Store
+
+# Spreadsheets
+*.xlsx
+!metadata.xlsx
 
 # C extensions
 *.so
@@ -135,6 +140,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+watra-env
 .env
 .envrc
 .venv
