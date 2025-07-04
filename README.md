@@ -148,7 +148,7 @@ The data collected as part of this exercise can be visualized at the following a
 
 https://watra-fiber-data.streamlit.app/
 
-![Streamlit app](streamlit_screenshot.png)
+<img src="streamlit_screenshot.png" alt="Streamlit app" width="400">
 
 ## Usage
 
