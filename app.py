@@ -3,7 +3,7 @@ from streamlit_folium import st_folium
 import geopandas as gpd
 import folium
 
-st.title("Fiber networks in WATRA countries")
+st.title("Fibre networks in WATRA countries")
 
 # Load your datasets
 gdf_lines = gpd.read_file("lines/combined_lines.geojson")

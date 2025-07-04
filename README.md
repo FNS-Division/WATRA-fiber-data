@@ -46,6 +46,8 @@ The dataset includes fiber infrastructure data for the following West African co
 │   └── ...
 ├── IXP/ixp.geojson     # Internet Exchange Point data
 ├── submarine/          # Submarine cable data
+├── app.py              # Streamlit app to visualize data
+├── requirements.txt    # Python requirements for Streamlit app
 └── metadata.xlsx       # Information on data sources and data schemas
 ```
 
@@ -139,6 +141,12 @@ Post-processing was conducted using **Python 3.11** with the GeoPandas library t
 | `country` | Yes | Country where the IXP is located | Benin |
 
 **Note:** All geographic coordinates use the WGS84 coordinate system (EPSG:4326) and are provided in decimal degrees.
+
+## View data
+
+The data collected as part of this exercise can be visualized at the following app:
+
+https://watra-fiber-data.streamlit.app/
 
 ## Usage
 
